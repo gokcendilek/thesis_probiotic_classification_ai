@@ -11,7 +11,7 @@
 ├── VIDEO/ # Presentation or demo videos
 └── README.md # Project description and structure
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -20,7 +20,7 @@
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
-## 🚀 Models Compared
+##  Models Compared
 
 - K-Nearest Neighbors (KNN)
 - Random Forest
