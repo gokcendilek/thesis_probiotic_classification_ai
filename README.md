@@ -137,8 +137,8 @@ Researcher
 </td>
 <td align="center">
 <a href="https://github.com/OzgurBeyOnline">
-<img src="https://github.com/OzgurBeyOnline.png" width="100px;" alt="Özgür Bey"/><br />
-<sub><b>Özgür Bey</b></sub>
+<img src="https://github.com/OzgurBeyOnline.png" width="100px;" alt="Özgür Yiğit Aşit"/><br />
+<sub><b>Özgür Yiğit Aşit</b></sub>
 </a><br />
 Researcher
 </td>
